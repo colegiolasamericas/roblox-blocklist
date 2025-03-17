@@ -1,0 +1,29 @@
+# Title: Roblox Blocklist
+# Description: Bloquea dominios relacionados con Roblox.
+# Homepage: https://www.roblox.com/
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 17 Mar 2025
+# Version: 2025.0317.1230.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 20 (Ejemplo)
+
+robloxlive.com
+roblox.com
+cdn.roblox.com
+tunnel.roblox.com
+api.roblox.com
+assetdelivery.roblox.com
+s3-us-west-1.amazonaws.com
+images.rbxcdn.com
+www.roblox.com
+media.roblox.com
+events.roblox.com
+streaming.roblox.com
+script.roblox.com
+s3.amazonaws.com
+robloxfriends.com
+www.robloxlive.com
+robloxdns.com
+robloxdns1.com
+robloxtracker.com
