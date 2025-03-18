@@ -1,0 +1,20 @@
+# Title: CrazyGames Blocklist
+# Description: Bloquea dominios relacionados con CrazyGames.
+# Homepage: https://www.crazygames.com/
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 18 Mar 2025
+# Version: 2025.0318.1300.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 10 (Ejemplo)
+
+crazygames.com
+www.crazygames.com
+static.crazygames.com
+games.crazygames.com
+cdn.crazygames.com
+ads.crazygames.com
+media.crazygames.com
+analytics.crazygames.com
+tracking.crazygames.com
+api.crazygames.com
