@@ -1,0 +1,20 @@
+# Title: Poki Blocklist
+# Description: Bloquea dominios relacionados con Poki.com.
+# Homepage: https://www.poki.com/
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 18 Mar 2025
+# Version: 2025.0318.1330.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 10 (Ejemplo)
+
+poki.com
+www.poki.com
+cdn.poki.com
+games.poki.com
+media.poki.com
+static.poki.com
+ads.poki.com
+analytics.poki.com
+api.poki.com
+tracking.poki.com
