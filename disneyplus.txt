@@ -1,0 +1,19 @@
+# Title: Disney+ Blocklist
+# Description: Bloquea los dominios asociados a Disney+.
+# Homepage: https://www.disneyplus.com/
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 18 Mar 2025
+# Version: 2025.0318.1330.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 10
+
+disneyplus.com
+www.disneyplus.com
+secure-static.disneyplus.com
+prod-disneyplus-www.or.dmd.mchls.com
+d2y11rbsb9id04.cloudfront.net
+d2wrb6bikblw2f.cloudfront.net
+disneyplusd1p1-a.akamaihd.net
+disneyplusd2p2-a.akamaihd.net
+identity-prod.disneyplus.com
