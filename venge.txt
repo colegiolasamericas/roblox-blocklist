@@ -1,0 +1,20 @@
+# Title: Venge.io Blocklist
+# Description: Bloquea dominios relacionados con Venge.io.
+# Homepage: https://venge.io/
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 18 Mar 2025
+# Version: 2025.0318.1230.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 10 (Ejemplo)
+
+venge.io
+cdn.venge.io
+static.venge.io
+api.venge.io
+assets.venge.io
+media.venge.io
+matchmaker.venge.io
+socket.venge.io
+tracking.venge.io
+adserver.venge.io
