@@ -1,0 +1,18 @@
+# Title: Microsoft Store Blocklist
+# Description: Bloquea los dominios de la Microsoft Store en Windows.
+# Homepage: https://www.microsoft.com/store
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 18 Mar 2025
+# Version: 2025.0318.1330.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 8
+
+microsoft.com
+store.microsoft.com
+www.microsoft.com
+login.live.com
+storeedgefd.dsx.mp.microsoft.com
+purchase.mp.microsoft.com
+displaycatalog.mp.microsoft.com
+licensing.mp.microsoft.com
