@@ -18,3 +18,4 @@ ads.poki.com
 analytics.poki.com
 api.poki.com
 tracking.poki.com
+poki.com/es
