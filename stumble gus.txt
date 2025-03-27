@@ -1,0 +1,26 @@
+# Title: Stumble Guys Blocklist
+# Description: Bloquea dominios relacionados con Stumble Guys.
+# Homepage: https://stumbleguys.com
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 27 Mar 2025
+# Version: 2025.0327.1230.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 15 (Ejemplo)
+
+
+stumbleguys.com
+www.stumbleguys.com
+kitkagames.com
+www.kitkagames.com
+cdn.stumbleguys.com
+api.stumbleguys.com
+assets.stumbleguys.com
+media.stumbleguys.com
+game.stumbleguys.com
+updates.stumbleguys.com
+stumbleassets.com
+stumbleupdates.com
+stumblecdn.com
+stumble-api.com
+stumbleguys.live
