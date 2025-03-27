@@ -1,0 +1,33 @@
+# Title: Steam Blocklist
+# Description: Bloquea dominios relacionados con Steam.
+# Homepage: https://store.steampowered.com
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 27 Mar 2025
+# Version: 2025.0327.1530.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 20+
+
+scss
+Copiar
+Editar
+steampowered.com
+www.steampowered.com
+store.steampowered.com
+help.steampowered.com
+steamcommunity.com
+www.steamcommunity.com
+cdn.steamcommunity.com
+steamgames.com
+s.team
+cdn.akamai.steamstatic.com
+media.steampowered.com
+api.steampowered.com
+partner.steamgames.com
+cs.steampowered.com
+st.dl.bscstorage.net
+cm.steampowered.com
+client-download.steampowered.com
+content.steampowered.com
+edge.steam-dns.top.comcast.net
+steam-chat.com
