@@ -1,0 +1,76 @@
+# Title: Social Media & Gaming Blocklist
+# Description: Bloquea redes sociales, juegos populares y tiendas de aplicaciones excepto WhatsApp y Telegram.
+# Homepage: www.lasamericastemuco.cl
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 27 Mar 2025
+# Version: 2025.0327.1630.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 55+
+
+### Redes Sociales (excepto WhatsApp y Telegram) ###
+facebook.com
+www.facebook.com
+instagram.com
+www.instagram.com
+tiktok.com
+www.tiktok.com
+twitter.com
+www.twitter.com
+x.com
+www.x.com
+snapchat.com
+www.snapchat.com
+pinterest.com
+www.pinterest.com
+tumblr.com
+www.tumblr.com
+linkedin.com
+www.linkedin.com
+reddit.com
+www.reddit.com
+discord.com
+www.discord.com
+
+### Plataformas de Video ###
+youtube.com
+www.youtube.com
+m.youtube.com
+youtubei.googleapis.com
+ytimg.com
+www.ytimg.com
+googlevideo.com
+www.googlevideo.com
+
+### Juegos Populares Android/iPhone ###
+roblox.com
+www.roblox.com
+cdn.roblox.com
+stumbleguys.com
+www.stumbleguys.com
+fortnite.com
+www.fortnite.com
+epicgames.com
+www.epicgames.com
+supercell.com
+www.supercell.com
+callofduty.com
+www.callofduty.com
+riotgames.com
+www.riotgames.com
+genshinimpact.com
+www.genshinimpact.com
+mihoyo.com
+www.mihoyo.com
+activision.com
+www.activision.com
+pubg.com
+www.pubg.com
+
+### Tiendas de Aplicaciones (Play Store y App Store) ###
+play.google.com
+www.play.google.com
+apps.apple.com
+www.apps.apple.com
+itunes.apple.com
+www.itunes.apple.com
