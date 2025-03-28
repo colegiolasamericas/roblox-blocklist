@@ -74,3 +74,9 @@ apps.apple.com
 www.apps.apple.com
 itunes.apple.com
 www.itunes.apple.com
+play.google.com
+play.googleapis.com
+android.clients.google.com
+lh3.googleusercontent.com
+fcm.googleapis.com
+googleapis.com
