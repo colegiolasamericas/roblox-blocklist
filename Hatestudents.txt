@@ -1,0 +1,16 @@
+# Title: HateStudents Blocklist
+# Description: Bloquea dominios relacionados con mc.hatestudents.org.uk.
+# Homepage: https://mc.hatestudents.org.uk/
+# License: Personal Use
+# Expires: 1 day
+# Last modified: 07 May 2025
+# Version: 2025.0507.1200.01
+# Syntax: Domains (including possible subdomains)
+# Number of entries: 6
+
+hatestudents.org.uk
+mc.hatestudents.org.uk
+cdn.hatestudents.org.uk
+api.hatestudents.org.uk
+assets.hatestudents.org.uk
+media.hatestudents.org.uk
